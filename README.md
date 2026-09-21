@@ -1,0 +1,1 @@
+Use with `sage -python sage_data.py --bound <largest prime>`. This will generate a timestamped csv in the directory `sage_runs` containing the existence and counts of zero-sum triples in prime finite fields up to the bound.
